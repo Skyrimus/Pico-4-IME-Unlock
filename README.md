@@ -1,5 +1,5 @@
-<img width="1246" height="697" alt="image" src="https://github.com/user-attachments/assets/7170e0bc-cab7-4599-81e8-ff0e1a0d1f3a" />
-<img width="1182" height="773" alt="image" src="https://github.com/user-attachments/assets/925cad10-74c3-4724-94c0-a37e4209cc65" />
+<img width="946" height="557" alt="image" src="https://github.com/user-attachments/assets/7170e0bc-cab7-4599-81e8-ff0e1a0d1f3a" />
+<img width="982" height="653" alt="image" src="https://github.com/user-attachments/assets/925cad10-74c3-4724-94c0-a37e4209cc65" />
 
 
 # Pico IME Unlock
