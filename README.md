@@ -1,7 +1,3 @@
-<img width="946" height="557" alt="image" src="https://github.com/user-attachments/assets/7170e0bc-cab7-4599-81e8-ff0e1a0d1f3a" />
-<img width="982" height="653" alt="image" src="https://github.com/user-attachments/assets/925cad10-74c3-4724-94c0-a37e4209cc65" />
-
-
 # Pico IME Unlock
 
 Pico IME Unlock is an LSPosed/Vector module for Pico 4 firmware 5.9.9
@@ -9,6 +5,9 @@ Pico IME Unlock is an LSPosed/Vector module for Pico 4 firmware 5.9.9
 as the system keyboard.
 
 Now you can install Google Board or Microsoft Swiftkey or other as default keyboard.
+
+<img width="946" height="557" alt="image" src="https://github.com/user-attachments/assets/7170e0bc-cab7-4599-81e8-ff0e1a0d1f3a" />
+<img width="982" height="653" alt="image" src="https://github.com/user-attachments/assets/925cad10-74c3-4724-94c0-a37e4209cc65" />
 
 The module remembers the last non-iFly keyboard selected in Android. When Pico
 requests a switch back to iFlyIME, the request is redirected to that keyboard
