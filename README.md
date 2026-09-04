@@ -1,6 +1,6 @@
 # Pico IME Unlock
 
-Pico IME Unlock is an LSPosed/Vector module for Pico 4 firmware 5.9.9
+Pico IME Unlock is an LSPosed/Vector module for Pico 4 (tested on 5.9.9)
 (Android 10 / API 29). It prevents `com.picovr.systemext` from forcing iFlyIME
 as the system keyboard.
 
@@ -67,7 +67,7 @@ The signed APK is written to `pico-ime-unlock-v1.0.3.apk`.
 
 ##############################################################################
 
-Pico IME Unlock — модуль для LSPosed/Vector на Pico 4 с прошивкой 5.9.9
+Pico IME Unlock — модуль для LSPosed/Vector на Pico 4 (протестировано на прошивке 5.9.9)
 (Android 10 / API 29). Он не позволяет `com.picovr.systemext` принудительно
 возвращать iFlyIME в качестве системной клавиатуры.
 
