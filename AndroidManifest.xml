@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dev.pico.imeguard"
+    android:versionCode="4"
+    android:versionName="1.0.3">
+
+    <uses-sdk android:minSdkVersion="27" android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="false"
+        android:hasCode="true"
+        android:label="Pico IME Unlock"
+        android:supportsRtl="true">
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="Keeps the selected keyboard unlocked on Pico firmware" />
+        <meta-data android:name="xposedminversion" android:value="93" />
+        <meta-data android:name="xposedscope" android:value="android;com.picovr.systemext" />
+    </application>
+</manifest>
